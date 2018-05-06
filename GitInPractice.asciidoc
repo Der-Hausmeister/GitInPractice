@@ -1,1 +1,3 @@
 some text. Just to did some changes.
+
+Wow, a new line!
