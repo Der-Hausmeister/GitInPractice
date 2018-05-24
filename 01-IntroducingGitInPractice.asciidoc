@@ -1,6 +1,4 @@
-some text. Just to did some changes.
-
-Okay, maybe this line is even better.
-
+## Chapter 1
+Hier habe ich einfach ein wenig Test geschrieben, um eine Merge-Konflikt zu erzeugen. Ich hoffe, es funktionierte.
 
 [Chapter 2]
