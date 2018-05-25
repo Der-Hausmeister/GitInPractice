@@ -1,4 +1,2 @@
 ## Chapter 1
 Hier habe ich einfach ein wenig Test geschrieben, um eine Merge-Konflikt zu erzeugen. Ich hoffe, es funktionierte.
-
-[Chapter 2]
